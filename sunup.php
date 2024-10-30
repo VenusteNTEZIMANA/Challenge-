@@ -48,7 +48,7 @@ $name1=$_POST["name"];
     <label class="form-label">Name</label>
     <input type="text" class="form-control" name="name" placeholder="" value="<?php echo $name1?>"></div>
   <button type="submit" class="btn btn-primary" name="insert">Sunup</button>
-  <a href="index1.php " class="link-secondary">login</a>
+  <a href="index1.php " class="link-secondary"><font size="10" color="black">Back-></font></a>
 </form>
 </div>
 </body>
